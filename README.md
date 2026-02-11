@@ -46,7 +46,7 @@ I enjoy working with data, images, and building intelligent systems that can see
 ---
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webrahma&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webrahma&layout=compact)
 
 <br>
 
