@@ -1,7 +1,7 @@
 <img align="right" src="des3.jpg" width="25%">
 
 <h1>
-  Hi There, I'm Rahma Hassan 👑
+  Hi There, I'm Rahma Hassaan 👑
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
